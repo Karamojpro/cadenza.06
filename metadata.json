@@ -1,0 +1,6 @@
+{
+  "name": "Studio Cadenza",
+  "description": "Industrial CAD, WebGL PBR inspection, and CAM manufacturing studio for architectural ceramic and porcelain tile engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
